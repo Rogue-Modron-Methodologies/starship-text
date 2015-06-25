@@ -1,0 +1,14 @@
+*.obj
+Debug/Starship Game.tlog/link.5704-cvtres.write.1.tlog
+*.tlog
+Debug/vc120.idb
+*.pdb
+*.log
+*.sdf
+Starship Game.sln
+*.vcxproj
+Starship Game.v12 (TheGameBabe's conflicted copy 2014-12-12).suo
+*.filters
+x64/Debug/Starship Game.exe
+*.ilk
+x64/Debug/vc120.idb
