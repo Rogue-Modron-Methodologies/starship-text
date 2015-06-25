@@ -12,3 +12,6 @@ Starship Game.v12 (TheGameBabe's conflicted copy 2014-12-12).suo
 x64/Debug/Starship Game.exe
 *.ilk
 x64/Debug/vc120.idb
+*.exe
+Starship Game.v12.suo
+*.exe
