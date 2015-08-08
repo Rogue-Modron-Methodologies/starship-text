@@ -16,4 +16,8 @@ x64/Debug/vc120.idb
 Starship Game.v12.suo
 *.exe
 *.suo
+<<<<<<< HEAD
 Debug/vc140.idb
+=======
+Starship Text.sln
+>>>>>>> origin/master
