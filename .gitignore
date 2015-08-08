@@ -15,3 +15,5 @@ x64/Debug/vc120.idb
 *.exe
 Starship Game.v12.suo
 *.exe
+*.suo
+Debug/vc140.idb
